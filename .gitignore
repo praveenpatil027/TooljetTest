@@ -1,0 +1,18 @@
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Reports
+cypress/reports/
+cypress/logs/
+
+# Node modules and dependencies
+node_modules/
+
+# Environment files
+cypress.env.json
+
+# Miscellaneous
+.DS_Store
+.env
+*.log
